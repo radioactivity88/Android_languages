@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string name="language_text">Русский</string>
+    <string name="select_language_button">Выберите язык</string>
+    <string name="select_language_title">Выберите язык</string>
+    <string name="lng_russian">Русский</string>
+    <string name="lng_english">English</string>
+    <string name="lng_romanian">Română</string>
+</resources>

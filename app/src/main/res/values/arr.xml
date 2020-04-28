@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="languages">
+        <item>@string/lng_russian</item>
+        <item>@string/lng_english</item>
+        <item>@string/lng_romanian</item>
+    </array>
+    <array name="lang_iso">
+        <item>ru</item>
+        <item>en</item>
+        <item>ro</item>
+    </array>
+</resources>
